@@ -20,7 +20,7 @@ Repo: [Rewrite Studio](https://github.com/Dhudson-AI/rewrite-studio)
 A frontend and LLM demo showcasing tone selection, form validation, and text based feature access.  
 Highlights UI clarity, state management, clean interactions, and safe request handling.
 
-Live: http://submish.co
+Live: [Submish](http://submish.framer.website)
 
 ---
 
@@ -28,7 +28,7 @@ Live: http://submish.co
 A frontend and LLM demo for natural rewriting and clean, readable language.  
 Demonstrates readable pipelines, input sanitization, and a clean, responsive UI.
 
-Live: http://scind.co
+Live: [Scind](http://scind.framer.website)
 
 ---
 
