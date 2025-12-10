@@ -1,5 +1,6 @@
-# Dillon Hudson  
-**AI Product Engineer focused on UX aligned LLM tooling and end to end feature delivery**
+# Dillon Hudson
+
+**AI Applications and LLM Systems Engineer**
 
 I build practical AI applications that combine clean architecture, predictable behavior, and streamlined frontend logic to create stable, user ready tools.  
 My work centers on turning raw model output into reliable features through proper abstraction, controlled transformation pipelines, and product focused design.
