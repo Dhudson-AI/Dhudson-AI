@@ -1,85 +1,69 @@
 # Dillon Hudson
 
-**AI Applications and LLM Systems Engineer**
+AI Product Developer building reliable, predictable AI systems designed for real world use.
 
-I build practical AI applications that combine clean architecture, predictable behavior, and streamlined frontend logic to create stable, user ready tools.  
-My work centers on turning raw model output into reliable features through proper abstraction, controlled transformation pipelines, and product focused design.
-
----
+I focus on shaping raw model output into stable, usable features through clear constraints, structured transformation pipelines, and practical UX. My work sits at the intersection of product design, model behavior control, and applied AI engineering.
 
 ## Featured Work
 
-### Rewrite Studio  
-A focused rewriting and summarization tool powered by the OpenAI API.  
-Demonstrates clean feature layering, predictable transformation pipelines, and a streamlined Streamlit interface.
+### Rewrite Studio
+A focused rewriting and summarization demo built with the OpenAI API.
 
-Repo: [Rewrite Studio](https://github.com/Dhudson-AI/rewrite-studio)
+This project demonstrates how I design controlled text transformation pipelines, guide model behavior, and enforce predictable output through structured prompts and streamlined user flows.
 
----
-
-### Submish (demo)  
-A frontend and LLM demo showcasing tone selection, form validation, and text based feature access.  
-Highlights UI clarity, state management, clean interactions, and safe request handling.
-
-Live: [Submish](https://submish.framer.website)
+Repo: https://github.com/Dhudson-AI/rewrite-studio
 
 ---
 
-### Scind (demo)  
-A frontend and LLM demo for natural rewriting and clean, readable language.  
-Demonstrates readable pipelines, input sanitization, and a clean, responsive UI.
+### Submish (demo)
+A multi step AI workflow for generating consistent, readable cover letters from structured inputs.
 
-Live: [Scind](https://scind.framer.website)
+Highlights include tone selection, input validation, user facing constraints, and repeatable transformation logic designed for reliability over creative variance.
+
+Live: https://submish.framer.website/
 
 ---
 
-## Technical Skills
+### Scind (demo)
+A single purpose AI rewriting tool focused on predictability, tone preservation, and meaning retention.
 
-### LLM and Backend Work
-- OpenAI API integration  
-- Prompt architecture and predictable behavior  
-- Feature extraction and transformation logic  
-- Request sanitization and safe handling  
-- Python backend structure and organization  
+Demonstrates input sanitation, clean transformation pipelines, and controlled output behavior designed for everyday professional use.
+
+Live: https://scind.framer.website/
+
+## Technical Focus
+
+### AI and LLM Systems
+- Prompt system design and structured prompt hierarchies  
+- Model behavior control and output evaluation  
+- Predictable transformation pipelines  
+- Input validation and constraint enforcement  
+- Cost aware API usage  
 
 ### Frontend and UX
-- Framer component logic and interface design  
-- Streamlit interface structure  
-- Minimal UX for clean decision flow  
-- Clear text based interactions  
-- User oriented layout and interaction feedback  
+- Clean user flows designed to reduce ambiguity  
+- Form validation and interaction constraints  
+- Readable, user friendly output presentation  
+- Practical UI decisions aligned with backend behavior  
 
-### Deployment and Infrastructure
-- Environment separation  
-- API key isolation  
-- Version controlled configuration  
-- Light serverless patterns  
-- Logging and request insight handling  
-
----
+### Engineering and Integration
+- OpenAI API integration  
+- Python and SQL  
+- Automation workflows and internal tooling  
+- Request handling, logging, and basic infrastructure concerns  
 
 ## What I Focus On
-- Building complete AI features with clear structure  
-- Designing interactions that reduce ambiguity across input  
-- Creating tools where model output feels intentional  
-- Shaping UX around how LLMs behave and respond  
-- Driving alignment between interface and backend logic  
-
----
+- Building AI features with clear constraints to reduce unpredictable behavior  
+- Turning raw model output into stable, usable product features  
+- Designing systems where UX and model behavior reinforce each other  
+- Prioritizing reliability, clarity, and trust over novelty  
 
 ## Current Direction
-I am leaning deeper into applied AI engineering:
-- controlled pipelines  
-- model reasoning stability  
-- predictable LLM output  
-- end to end feature delivery  
-- rapid prototyping with clean UX  
+I am continuing to deepen my applied AI and product engineering skills, with emphasis on predictable model behavior, structured transformation pipelines, and clean user centered workflows.
 
-I aim to join an AI product engineering team where I can design, build, and deliver stable LLM features at scale while contributing to a focused, high quality development culture.
-
----
+I am interested in roles where I can design, build, and deliver AI features that scale responsibly and are used in real production environments.
 
 ## Contact
+Portfolio: https://dark-peak-cb6.notion.site/Dillon-Hudson-2c56a7a1e96c807fb671da6548b3f16b 
 
-GitHub: https://github.com/Dhudson-AI  
-LinkedIn: www.linkedin.com/in/Dhudson-AI
+LinkedIn: https://linkedin.com/in/dhudson-ai
