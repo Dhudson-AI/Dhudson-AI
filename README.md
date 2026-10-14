@@ -4,7 +4,7 @@ I build internal software, AI systems, and workflow automation around real opera
 My work includes local LLM deployment, RAG, search/retrieval systems, Microsoft Power Platform automation, desktop applications, API integrations, and business-process tooling. I focus on secure, maintainable systems with controlled access, human review, and room to expand as requirements change.
 
 ## Featured Work
-_Selected professional systems are internal/proprietary; public repositories and demos are linked where available.
+_Selected professional systems are internal/proprietary; public repositories and demos are linked where available._
 
 ### Structured Cabling Project Tracker
 Automated technician intake, validation, approval routing, exception handling, and live project status across five work areas, eliminating 12+ hours of manual processing and coordination per week.
